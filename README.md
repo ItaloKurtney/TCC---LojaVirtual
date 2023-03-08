@@ -4,6 +4,11 @@ O e-commerce que é responsivo,ou seja, adaptando-se automaticamente à tela.O s
 
 link para visualizar o e-commerce https://projetotcc1bq.000webhostapp.com
 
+REALIZE O LOGIN PARA ACESSAR 
+
+git@gmail.com
+1234
+
 realizar cadastro de funcionario https://projetotcc1bq.000webhostapp.com/logpag/cadastrar.php
 
 realizar cadastro de produtos https://projetotcc1bq.000webhostapp.com/logpag/cadastrar.php
