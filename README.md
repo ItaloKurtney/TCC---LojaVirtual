@@ -1,4 +1,4 @@
-# TCC---LojaVirtual
+# TCC---LojaVirtual ARQUIVOS NA BRANCH MASTER
 E-commerce realizado com integração ao banco de dados,linguagens em HTML,CSS,JS,PHP.
 O e-commerce que é responsivo,ou seja, adaptando-se automaticamente à tela.O sitema permite que o usuário visualize diversos produtos cadastrados que ao clicar sera direcionado para outra janela com mais informações do produto, Outra parte do projeto irá possibilitar que o administrador realize novos cadastros de funcionarios atraves de um formulario de cadastro para preencher,apois isso ao fazer o login o funcionario tera a possiblidade de cadastramento de produtos assim mostrando o novo produto na página inicial ,digitando o valor do produto em atacado,o valor unitário,descrição do produto,tendo isso,o funcionário poderá ter acesso a uma lista mostrando todos os produtos cadastrados podendo editar todas as informações do produto.
 
